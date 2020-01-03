@@ -2,6 +2,6 @@ package com.mantiso;
 
 public class Helper {
 public String getMessage() {
-return "Hello from Helper";
+return "Hello from Helper!!";
  }
 }
